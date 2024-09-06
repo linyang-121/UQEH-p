@@ -1,0 +1,3 @@
+#Kinetic energy values for electrons
+#Place generated points for electron kinetic energies starting on line 4
+#can use provide Mathematica notebook or other software to generate these values

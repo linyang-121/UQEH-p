@@ -1,0 +1,3 @@
+#Place the positions of the atomic nuceli starting on line 4
+#Make sure the points are in the format 'A x y z' where A is
+#the atomic number. Also ensure that each value for x,y,&z are positive

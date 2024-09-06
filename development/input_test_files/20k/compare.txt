@@ -1,0 +1,5 @@
+#Values from QE that UQ code should be compared to at 20,000 Kelvin
+
+total electronic energy from average positions: -2246.00024 Hartree au
+
+total electornic energy from single position: -2245.44190326 Hartree au

@@ -1,0 +1,3 @@
+#input parameters for UQ
+#put numbers in order of below titles with one space in between
+#number of electrons , atomic number , number of nuclei , x dim , y dim , z dim , ntrials
